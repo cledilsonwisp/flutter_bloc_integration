@@ -1,0 +1,30 @@
+name: bloc_empresas
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bloc_test: ^8.1.0
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.0
+  equatable: ^2.0.3
+  flutter_bloc: ^7.0.1
+  flutter_modular: ^3.3.1
+  mocktail: ^0.1.4
+  provider: ^5.0.0
+  rxdart: ^0.27.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
