@@ -1,6 +1,6 @@
 # Bloc Integration
 
-
+---
 
 
 <h2 align="center">Sobre 📖</h2>
@@ -26,7 +26,7 @@
 <h2 align="center">Como Usar </h2>
 
    ```
-   Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua máruina, veja em: https://flutter.dev/docs/get-started/install
+   Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua máquina, veja em: https://flutter.dev/docs/get-started/install
    
    - Clone esse repositório:
    $ git clone https://github.com/cledilsonWisp/flutter_bloc_integration.git flutter_bloc
