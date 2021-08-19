@@ -1,5 +1,8 @@
 # Bloc Integration
 
+
+
+
 <h2 align="center">Sobre 📖</h2>
 
 
@@ -16,8 +19,50 @@
 
    [![Linkedin Badge](https://img.shields.io/static/v1?label=&message=Cledilson&color=0000FF&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/cledilson-programador/)
 
-   [![issues](https://img.shields.io/github/issues/CledilsonWisp/payFlow)]()
-   [![issues](https://img.shields.io/github/stars/CledilsonWisp/payFlow)]()
    </div>
 
+
+
+<h2 align="center">Como Usar </h2>
+
+   ```
+   Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua máruina, veja em: https://flutter.dev/docs/get-started/install
+   
+   - Clone esse repositório:
+   $ git clone https://github.com/cledilsonWisp/flutter_bloc_integration.git flutter_bloc
+
+   - Entre no diretório:
+   $ cd flutter bloc integration
+
+   - Instale as dependências:
+   $ flutter pub get
+
+   - Inicie o app: 
+   $ flutter run
+   ```
+
+
+
+---
+
+<h2 align="center">Como Contribuir 💪</h2>
+
+   ```
+   - Fork o projeto 
+
+   - Cria uma nova branch com suas mudanças:
+   $ git checkout -b my-feature
+
+   - Salve suas mudanças e crie uma mensagem de commit falando o que fez:
+   $ git commit -m "feature: My new feature"
+
+   - Envie suas mudanças:
+   $ git push origin my-feature
+   ```
+
+
+---
+
+
+>Esse projeto foi desenvolvido por **[@Cledilson silva](https://www.linkedin.com/in/cledilson-programador/)**, com o instrutor **[@JacobMoura]()**, na Flutterando **[Rocketseat](https://www.youtube.com/c/Flutterando)**.<br>
 
