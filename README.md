@@ -5,22 +5,25 @@
 
 <h2 align="center">Sobre 📖</h2>
 
-
-   
 <p align="center">
-  Projeto desenvolvido para estudos da implementação do design pattern Bloc e flutter modular para injeção de dependências e rotas. <br>
+  Projeto desenvolvido para estudos da implementação do design pattern Bloc e flutter modular para injeção de dependências e roteamento. <br>
 </p>
+
+<div align="center">
+      <img alt="ScreenShot" src="https://github.com/cledilsonwisp/flutter_bloc_integration/blob/main/screen_shot.png?raw=true" />
+</div>
+
+<div align="center">
+      <img alt="ScreenShot2" src="https://raw.githubusercontent.com/cledilsonwisp/flutter_bloc_integration/main/screen_shot2.png" />
+</div>
 
 ---
 
-
-
-   <div align="center">
+<div align="center">
 
    [![Linkedin Badge](https://img.shields.io/static/v1?label=&message=Cledilson&color=0000FF&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/cledilson-programador/)
 
-   </div>
-
+ </div>
 
 
 <h2 align="center">Como Usar </h2>
