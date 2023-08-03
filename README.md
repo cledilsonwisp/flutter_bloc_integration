@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">
-      <img alt="ScreenShot" height="400em" src="https://github.com/cledilsonwisp/flutter_bloc_integration/blob/main/screen_shot.png?raw=true" />
-       <img alt="ScreenShot2" height="400em" src="https://raw.githubusercontent.com/cledilsonwisp/flutter_bloc_integration/main/screen_shot2.png" />
+      <img alt="ScreenShot2" height="450em" src="https://raw.githubusercontent.com/cledilsonwisp/flutter_bloc_integration/main/screen_shot2.png" />
+      <img alt="ScreenShot" height="450em" src="https://github.com/cledilsonwisp/flutter_bloc_integration/blob/main/screen_shot.png?raw=true" />
 </div>
 
 ---
