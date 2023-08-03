@@ -1,14 +1,8 @@
+import 'package:bloc_integration/app/app_module.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
-import 'main_module.dart';
-import 'material_app.dart';
-import 'modules/bloc_avancado/module.dart';
+import 'app/app.dart';
 
 void main() {
-  runApp(
-    ModularApp(
-      module: InjecaoModule(), //trocar por MyHomePageModular para bloc_simples
-      child: MyApp(),
-    ),
-  );
+  runApp(ModularApp(module: AppModule(), child: MyApp()));
 }
