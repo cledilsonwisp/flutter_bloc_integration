@@ -6,7 +6,17 @@
 <h2 align="center">Sobre 📖</h2>
 
 <p align="center">
-  Projeto desenvolvido para estudos da implementação do design pattern Bloc e flutter modular para injeção de dependências e roteamento. <br>
+  Projeto desenvolvido para estudos da implementação do design pattern Bloc, aproveitando as novidades do Flutter 3.10. Além disso, foi utilizada a biblioteca Flutter Modular para facilitar a injeção de dependências e o roteamento na aplicação.
+
+O objetivo deste projeto é explorar a arquitetura Bloc (Business Logic Component) para gerenciamento de estado no Flutter, proporcionando uma separação clara entre a lógica de negócios e a interface do usuário. O Bloc é uma abordagem popular e poderosa para lidar com o estado em aplicativos Flutter, tornando-os mais previsíveis e fáceis de manter.
+
+Para otimizar a organização do código e melhorar a escalabilidade, adotamos a abordagem do Flutter Modular para a injeção de dependências e gerenciamento de rotas. O Flutter Modular permite uma estrutura modularizada do projeto, dividindo-o em módulos independentes, facilitando a reutilização de código e a manutenção.
+
+Com o Flutter 3.10, também pudemos aproveitar novas funcionalidades e melhorias, tornando a experiência de desenvolvimento mais agradável e eficiente.
+
+Através deste projeto, buscamos aprimorar nossas habilidades em Flutter e conhecer boas práticas de arquitetura, preparando-nos para enfrentar desafios mais complexos em futuros desenvolvimentos de aplicativos móveis.
+  <br>
+  <br>
 </p>
 
 <div align="center">
